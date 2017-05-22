@@ -1,0 +1,20 @@
+// The ui-variables file is provided by base themes provided by Atom.
+//
+// See https://github.com/atom/atom-dark-ui/blob/master/styles/ui-variables.less
+// for a full listing of what's available.
+@import "octicon-utf-codes.less";
+@import "ui-variables";
+
+atom-text-editor {
+  .gutter .line-number.bookmarked .icon-right {
+    visibility: visible;
+
+    &:before {
+      content: @bookmark;
+      color: #09C;
+    }
+  }
+}
+
+.persistent-bookmarks {
+}

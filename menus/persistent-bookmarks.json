@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle persistent-bookmarks",
+        "command": "persistent-bookmarks:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "persistent-bookmarks",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "persistent-bookmarks:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
