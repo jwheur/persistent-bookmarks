@@ -7,6 +7,6 @@ Bookmarks are ordered by time of creation.
 ## Default Shortcuts
 `ctrl-alt-b`: Toggle bookmark
 
-`ctrl-alt-m`: View all bookmarks
+`ctrl-alt-m`: View all bookmarks in current project
 
-`ctrl-alt-shift-m`: Clear all bookmarks
+`ctrl-alt-shift-m`: Clear all bookmarks in current project
