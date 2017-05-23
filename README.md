@@ -1,5 +1,8 @@
 # persistent-bookmarks package
 
-A short description of your package.
+Similar to https://atom.io/packages/bookmarks but bookmarks remain after you close a text editor, and even after closing a project.
+Bookmarks are ordered by time of creation.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## Default Shortcuts
+`ctrl-alt-m`: View all bookmarks
+`ctrl-alt-shift-m`: Clear all bookmarks

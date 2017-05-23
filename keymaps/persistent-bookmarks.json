@@ -1,6 +1,6 @@
 {
   "atom-workspace": {
-    "alt-m": "persistent-bookmarks:view-all",
-    "alt-shift-m": "persistent-bookmarks:clear-all"
+    "ctrl-alt-m": "persistent-bookmarks:view-all",
+    "ctrl-alt-shift-m": "persistent-bookmarks:clear-all"
   }
 }
